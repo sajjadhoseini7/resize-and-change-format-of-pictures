@@ -8,4 +8,4 @@ Powered by PIL: Utilizes the Python Imaging Library (PIL) for robust image proce
 
 User Instructions: Detailed instructions are available in the app menu.
 
-Developer: Created by Sajjad Hoseini
+Developed by Sajjad Hoseini
